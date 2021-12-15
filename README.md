@@ -1,8 +1,12 @@
-<h1> FUNDAMENTALS OF DATA ANALYSIS ASSESSMENT</h1>
+#  <b>FUNDAMENTALS OF DATA ANALYSIS ASSESSMENT</b>
 
 <br>
-<h1><b><u> Fundementals For Data Analysis Assessment - matplotlib.pyplot</u></b></h1>
 
+This respository contains Jupyter notebooks and other relevant files relating to the module assessment for Fundementals For Data Analysis.
+ This `README.md` file contains the documentation for technologies and libraries used for the project. 
+
+
+All notebooks and all other relevant files can be found at: https://github.com/kmcd14/FofData-assessment.
 
 
 <br>
@@ -19,14 +23,15 @@
 ---
 ---
 <h2><b><u><p id='Description'> Description</b></u></p></h2>
-This document is relating to matplotlib.pyplot assessment for Fundementals For Data Analysis module. The aim of this project is to research and investigate the matplotlib.pyplot package.
+<br>
 
-This README contains the documentation for technologies and libraries used for the project. 
+The notebook `pyplot.ipynb` is in relation to the matplotlib.pyplot assessment for the module. 
 
-The Jupyter Notebook and images used can be found at https://github.com/kmcd14/FofData-assessment.
-<br></br>
+The aim of this notebook is to provide a clear and concise overview of the Python package ```matplotlib.pyplot```. This will be achieved by reseaching the package and demonstrating it's functionality through a choice of three of the plots the package provides.
 
- <h4><u> Objectives and to do list: </u></h4>
+<br>
+
+ <h4><u> Objectives: </u></h4>
  <ul>
   <li>Explain the overall purpose of the package.</li>
   <li>Explain the use of three plots the package contains. </li>
@@ -34,20 +39,38 @@ The Jupyter Notebook and images used can be found at https://github.com/kmcd14/F
   <li>A requirements.txt file.</li>
 </ul>
 
+<br>
+
+I enjoyed undertaking this project as it enabled me to develop an appreciation for `matplotlib` and its capabilities. For example, up until this project I believed a plot to be the correct term but I now know about the anatomy of a figure. 
+
+Images are a powerful form of communication and are an integral part of data analysis. 
+It is important that we can visualise our data for others who may not be versed in data or programming so they can understand our findings. It is often easier to digest an image than blocks code or digits. Additionally, by visualising our data it allows us to see patterns that we may not have otherwise noticed.
+
+<br>
+
+In the future to futher exapand on this project and to continue my leaning and development, I would like to explore `matplotlib`'s object oriented interface. The `pyplot` module is a state machine interface. This means that the current figure is automatically created, updated and edited with method passed. This makes `pyplot` simple, easy and efficent to use.  Additionally,  `matplotlib` has an objected orientated interface. 
+Using an object-oriented approach gives you total control of a figure and all the elements which it contains. method is to create figure objects and then call methods off of it. 
+
+<br>
+
 ---
 
-<h3><b><u><p id='Script'> How To Get The Respoistory on Your Machine</b></u></p></h3>
+<br><br>
+<h2><b><u><p id='Script'> How To Get The Respoistory on Your Machine</b></u></p></h2>
 
 <ol>
-<li>Create a folder on your desktop where you wish to store the code</li>
-<li>Navigate to the repoistory https://github.com/kmcd14/FofData-assessment.</il>
-<br></br>
+<li>Open your teminal.</li>
+<li>Naviagte to where you wish to create and store the folder. </li>
+<li>Using your browser navigate to the repository:  
+
+https://github.com/kmcd14/FofData-assessment. </il>
+
+
 
 <img src='images/repository.PNG'>
 
 <li>Copy the repository address, as seen in the above picture. Using either SSH or HTTPS</li>
-<li>Open the terminal on your desktop and navigate to the folder you created earlier.</li>
-<li>Once in the folder use 
+<li>In the terminal - make sure you are in the folder where you wish to save the folder - type the command:
 
 
 
@@ -59,21 +82,27 @@ The Jupyter Notebook and images used can be found at https://github.com/kmcd14/F
 </li>
 </ol>
 
-
 </br>
-----
+
+---
+
 </br>
 
 To access this notebook - numpy-random.ipynb -  you will need to install Python preferably through Anaconda distribution. 
 
 
 <h3><b><u><p id='Jupyter'>Running Jupyter Notebook</p></b></u></p></h3>
-<li>From the command line navigate to the folder you have cloned the  repository.</li>
-<li>Type jupyter lab or jupyer notebook into the command line and press enter</li>
-<li>Open the numpy-random.ipynb notebook in the browser</li>
-<li>To run the code in a cell hold down the shift key and press enter.</li>
-<li>To change between edit and read mode at any time press the ESC key.</li>
-<li>When you have finished, close the web browser and press Press Ctrl + C on the command line to terminate the programme.</li>
+  
+  - From the command line navigate to the folder you have cloned the repository.
+  - Type `jupyter lab`  or `jupyer notebook` into the command line and press enter.
+  - Open the `pyplot.ipynb` notebook in the browser.
+  - To run the code in a cell hold down the `shift key` and press `enter`.
+  - To change between edit and read mode at any time press the `ESC key`.
+  - When you have finished, shut down the kernal via file > shut down in the browser, close the browser and press Press `Ctrl + C` on the command line to terminate the programme.
+
+
+<br>
+
 
 <h3><b><u><p id='Technologies_Used'> Technologies Used:</b></u></p></h3>
 
