@@ -3,7 +3,7 @@
 <br>
 
 
-![img](images\readme_header.jpg)
+<img src='images\readme_header.jpg' width="650" height="400">
 
 
 <br></br>
