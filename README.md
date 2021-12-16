@@ -168,11 +168,13 @@ You can forgo downloading Anconda and install each package indvidually in the py
 <br>
 Additionally, if you wish to view the notebook without having to install additional requirements, please click on the following badges to be redirected in your browser. 
 
-<br> 
+<br> </br>
 
 `pyplot.ipynb`
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kmcd14/FofData-assessment/blob/main/pyplot.ipynb)
+
+<br> </br>
 
 `cao.ipynb`
 
