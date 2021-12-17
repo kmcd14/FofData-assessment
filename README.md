@@ -196,7 +196,7 @@ Additionally, if you wish to view the notebook without having to install additio
 
   - In the side panel you will see all files in the respository as seen in the above image. 
   - Click on `pyplot.ipynb` or `cao.ipynb` to open the notebook.
-  - To run the code in a cell hold down the `shift key` and press `enter`.
+  - To run the code in a cell hold down the `shift key` and press `enter` or click `Kernal` in the top toolbar and run all cells.
   - To change between edit and read mode at any time press the `ESC key`.
   - When you have finished, shut down the kernal via file > shut down in the browser, close the browser and press Press `Ctrl + C` on the command line to terminate the programme.
 
