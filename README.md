@@ -198,7 +198,7 @@ Additionally, if you wish to view the notebook without having to install additio
 
   
   - From the command line navigate to the folder you have cloned the repository to.
-  - Type `jupyter lab` or `jupyter notebook` into the command line and press enter to lauch the the jupyer interface.
+  - Type `jupyter lab` or `jupyter notebook` into the command line and press enter to launch the jupyter interface.
 <br></br>
   <img src='images/side_panel.PNG' width="200" height="300">
   <br></br>
